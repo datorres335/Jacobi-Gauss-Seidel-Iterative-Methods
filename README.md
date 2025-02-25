@@ -104,9 +104,3 @@ Sorry the desired error wasn't achieved in 50 iterations. Here is the value at t
 4. **Select the desired method** (Jacobi or Gauss-Seidel).
 5. **View the step-by-step solution and final computed results.**
 
-## License
-This project is open-source and available for modification and use.
-
----
-Let me know if you need any modifications! 🚀
-
