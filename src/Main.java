@@ -142,6 +142,8 @@ public class Main {
             maxIterations++;
             firstItVals = Arrays.copyOf(secondItVals, secondItVals.length);
         }
+        if (maxIterations < 50) System.out.println("Solution converged!");
+
         System.out.println("\nSorry the desired error wasn't achieved in 50 iterations. Here is " +
                 "the value at the 50th iteration: ");
         System.out.print("[");
